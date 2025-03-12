@@ -1,6 +1,144 @@
 {
   "key": "7QP",
   "name": "7th Call Area QSO Party",
+  "url":http://7qp.org/
   "start": "2025-5-3 13:00Z",
-  "end": "2025-5-4 07:00Z"
+  "end": "2025-5-4 07:00Z",
+  "cabrilloName": “7area-QSO-PARTY",
+  "internalNotes": dx multiplier is max of 10
+  "lastUpdated": "2025-3-12 22:00z",
+  "status": unverified
 }
+"options": {
+    "dcCountsAsMaryland": true,
+    "stateCountsForInState": true,
+    "selfCountsForCounty": true,
+    "selfSpotting": true,
+    "countyLine": true,
+    "dxIsMultiplier": true
+  },
+  "entry": {
+    "In State": {},
+    "Out of State": {}
+  },
+  "points": {
+    "PHONE": 2,
+    "CW": 3,
+    "DIGI": 4,
+  },
+"counties": {
+    "AZAPH”: "Apache",
+    "AZCHS": "Cochise",
+    "AZCNO": "Coconino
+    "AZGLA": "Gila"
+    "AZGHM": "Graham"
+    "AZGLE": "Greenlee"
+    "AZLPZ": "La Paz"
+    "AZMCP": "Maricopa"
+    "AZMHV": "Mohave"
+    "AZNVO": "Navajo"
+    "AZPMA": "Pima"
+    "AZPNL": "Pinal"
+    "AZSCZ": "Santa Cruz"
+    "AZYVP": "Yavapai"
+    "AZYMA": "Yuma"
+    "IDADA": "Ada"
+    "IDADM": "Adams"
+    "IDBAN": "Bannock"
+    "IDBEA": "Bear Lake"
+    "IDBEN": "Benewah"
+    "IDBIN": "Bingham"
+    "IDBLA": "Blaine"
+    "IDBOI": "Boise"
+    "IDBNR": "Bonner"
+    "IDBNV": "Bonneville"
+    "IDBOU": "Boundary"
+    "IDBUT": "Butte"
+    "IDCAM": "Camas"
+    "IDCAN": "Canyon"
+    "IDCAR": "Caribou"
+    "IDCAS": "Cassia"
+    "IDCLA": "Clark"
+    "IDCLE": "Clearwater"
+    "IDCUS": "Custer"
+    "IDELM": "Elmore"
+    "IDFRA": "Franklin"
+    "IDFRE": "Fremont"
+    "IDGEM": "Gem"
+    "IDGOO": "Gooding"
+    "IDIDA": "Idaho"
+    "IDJEF": "Jefferson"
+    "IDJER": "Jerome"
+    "IDKOO": "Kootenai"
+    "IDLAT": "Latah"
+    "IDLEM": "Lemhi"
+    "IDLEW": "Lewis"
+    "IDLIN": "Lincoln"
+    "IDMAD": "Madison"
+    "IDMIN": "Minidoka"
+    "IDNEZ": "Nez Perce"
+    "IDONE": "Oneida"
+    "IDOWY": "Owyhee"
+    "IDPAY": "Payette"
+    "IDPOW": "Power"
+    "IDSHO": "Shoshone"
+    "IDTET": "Teton"
+    "IDTWI": "Twin Falls"
+    "IDVAL": "Valley"
+    "IDWAS": "Washington"
+    "MTBEA": "Beaverhead"
+    "MTBIG": "Big Horn"
+    "MTBLA": "Blaine"
+    "MTBRO": "Broadwater"
+    "MTCRB": "Carbon"
+    "MTCRT": "Carter"
+    "MTCAS": "Cascade"
+    "MTCHO": "Chouteau"
+    "MTCUS": "Custer"
+    "MTDAN": "Daniels"
+    "MTDAW": "Dawson"
+    "MTDEE": "Deer Lodge"
+    "MTFAL": "Fallon"
+    "MTFER": "Fergus"
+    "MTFLA": "Flathead"
+    "MTGAL": "Gallatin"
+    "MTGAR": "Garfield"
+    "MTGLA": "Glacier"
+    "MTGOL": "Golden Valley"
+    "MTGRA": "Granite"
+    "MTHIL": "Hill"
+    "MTJEF": "Jefferson"
+    "MTJUD": "Judith Basin"
+    "MTLAK": "Lake"
+    "MTLEW": "Lewis & Clark"
+    "MTLIB": "Liberty"
+    "MTLIN": "Lincoln"
+    "MTMAD": "Madison"
+    "MTMCC": "McCone"
+    "MTMEA": "Meagher"
+    "MTMIN": "Mineral"
+    "MTMIS": "Missoula"
+    "MTMUS": "Musselshell"
+    "MTPAR": "Park"
+    "MTPET": "Petroleum"
+    "MTPHI": "Phillips"
+    "MTPON": "Pondera"
+    "MTPWD": "Powder River"
+    "MTPWL": "Powell"
+    "MTPRA": "Prairie"
+    "MTRAV": "Ravalli"
+    "MTRIC": "Richland"
+    "MTROO": "Roosevelt"
+    "MTROS": "Rosebud"
+    "MTSAN": "Sanders"
+    "MTSHE": "Sheridan"
+    "MTSIL": "Silver Bow"
+    "MTSTI": "Stillwater"
+    "MTSWE": "Sweet Grass"
+    "MTTET": "Teton"
+    "MTTOO": "Toole"
+    "MTTRE": "Treasure"
+    "MTVAL": "Valley"
+    "MTWHE": "Wheatland"
+    "MTWIB": "Wibaux"
+    "MTYEL": "Yellowstone"
